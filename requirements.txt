@@ -1,4 +1,3 @@
-pip install python-telegram-bot  
 pip install PyDrive  
 pip install PyYAML  
 pip install google-api-python-client  
